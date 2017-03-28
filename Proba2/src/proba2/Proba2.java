@@ -17,6 +17,7 @@ public class Proba2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("asdf");
+        System.out.println("willgo");
     }
     
 }
